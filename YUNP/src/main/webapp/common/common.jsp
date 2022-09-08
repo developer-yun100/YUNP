@@ -8,7 +8,7 @@
   <!-- jquery  -->
   <script type="text/javascript" src="../Semantic/jquery-3.3.1.js"></script>
   <!-- Semantic  -->
-  <script type="text/javascript" src="../Semantic/semantic.min.js"></script>
+  <script type="text/javascript" src="../Semantic/semantic.js"></script>
   <link type="text/css" rel="stylesheet" href="../Semantic/semantic.min.css"/>
   <title></title>
 </head>
